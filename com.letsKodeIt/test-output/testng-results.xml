@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34106" started-at="2020-04-29T03:42:43Z" finished-at="2020-04-29T03:43:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34106" started-at="2020-04-29T03:42:43Z" finished-at="2020-04-29T03:43:17Z">
+      <class name="testNGTest.VerifyRadioButton">
+        <test-method status="PASS" signature="testBmwRadioButton()[pri:0, instance:testNGTest.VerifyRadioButton@3884b2]" name="testBmwRadioButton" duration-ms="15682" started-at="2020-04-28T23:42:43Z" finished-at="2020-04-28T23:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBmwRadioButton -->
+        <test-method status="PASS" signature="verifyAllRadioButtons()[pri:0, instance:testNGTest.VerifyRadioButton@3884b2]" name="verifyAllRadioButtons" duration-ms="18367" started-at="2020-04-28T23:42:59Z" finished-at="2020-04-28T23:43:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllRadioButtons -->
+      </class> <!-- testNGTest.VerifyRadioButton -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
